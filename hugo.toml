@@ -1,0 +1,14 @@
+baseURL = 'https://1080hours.com/'
+languageCode = 'en-us'
+title = '1080 Hours'
+
+theme = "hugo-theme-relearn"
+
+# Relearn Theme Options
+author = "Will Button (0xWillButton)"
+description = "The owner's manual for the human body"
+
+[outputs]
+  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE", "PRINT"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
