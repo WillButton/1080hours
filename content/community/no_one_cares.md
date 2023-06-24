@@ -1,7 +1,7 @@
 ---
 title: No One Cares
 weight: 4
-pre: "<b>Day 38 </b>"
+pre: "<b>Day 39 </b>"
 ---
 
 How much weight did so-and-so put on the bar?
