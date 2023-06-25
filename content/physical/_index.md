@@ -3,4 +3,4 @@ title: Physical
 weight: 5
 ---
 
-Physical homepage
+![Let's Get Physical](/images/lets_get_physical.png)
