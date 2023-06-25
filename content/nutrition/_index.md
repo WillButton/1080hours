@@ -3,4 +3,4 @@ title: Nutrition
 weight: 4
 ---
 
-Nutrition homepage
+![Absolute Chad](/images/absolute_chad.png)

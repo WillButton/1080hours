@@ -3,4 +3,4 @@ title: Mental Toughness
 weight: 6
 ---
 
-Mental toughness homepage
+![Motivation](/images/motivation.png)
