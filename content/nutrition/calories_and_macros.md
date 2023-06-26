@@ -51,8 +51,8 @@ Let me bring this home to you and your goal now:
 
 The same is true for the types of energy you put into your body.
 
-Carbs = gasoline
-Fats and protein = wood
+  - Carbs = gasoline
+  - Fats and protein = wood
 
 When we eat carbs, we get a big gasoline-style explosion. But if equal energy demand isn’t present in our body, those carbs get stored as *fat*. When we fill up on healthy fats and proteins (you’ll learn what those are later), we get a nice, slow-burning furnace to fuel the engine of our body.
 
